@@ -1,1 +1,1 @@
-# Workshop-1-ML
+# Workshop 1 Machine Learning
