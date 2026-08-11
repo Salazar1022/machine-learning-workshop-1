@@ -107,11 +107,15 @@ Dataset utilizado como fuente de información para el análisis.
 
 El análisis se desarrolló en cinco fases.
 
-## Fase 1 — Exploración inicial
-## Fase 2 — Calidad y limpieza de los datos
-## Fase 3 — Análisis estadístico y relaciones entre variables
-## Fase 4 — Visualización
-## Fase 5 — Conclusiones
+    Fase 1 — Exploración inicial
+    
+    Fase 2 — Calidad y limpieza de los datos
+    
+    Fase 3 — Análisis estadístico y relaciones entre variables
+    
+    Fase 4 — Visualización
+    
+    Fase 5 — Conclusiones
 
 ---
 
